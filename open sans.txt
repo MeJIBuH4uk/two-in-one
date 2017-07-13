@@ -1,0 +1,4 @@
+FONTS: 
+	open sans, 
+	fira sans, 
+	PT serif
