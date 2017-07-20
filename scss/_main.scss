@@ -445,9 +445,9 @@ main {
 			}
 
 			img {
-				bottom: -170px;
-				left: -75px;
-				width: 115%;
+				bottom: -300px;
+				left: -165px;
+				width: 130%;
 			}
 		}
 
@@ -491,7 +491,7 @@ main {
 				font-family: "PT serif";
 				color: #f2f2f2;
 				display: block;
-				width: 30%;
+				width: 40%;
 				line-height: 30px;
 			}
 
@@ -518,30 +518,31 @@ main {
 
 	.sweetBalls {
 		& {
-			padding-top: 100px;
+			padding-top: 90px;
 			border-bottom: 1px solid silver;
 		}
 
 		> .wr {
-			padding: 0 45px;
 			@extend %clear;
 		}
 
 		h3 {
 			color: #101010;
-			line-height: 45px;
+			line-height: 34px;
 			font-size: 32px;
 			font-family: 'Fira Sans';
 			font-weight: bold;
 		}
 
 		.header-caption {
-			margin-bottom: 40px;
+			margin-bottom: 30px;
+			font-size: 55px;
+			line-height: 63px;
 		}
 
 		.upLeft {
 			& {
-				width: 40%;
+				width: 50%;
 				margin-bottom: 70px;
 			}
 
